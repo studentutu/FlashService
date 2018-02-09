@@ -1,0 +1,22 @@
+{
+  "name": "flashViewer",
+  "version": "1.0.0",
+  "description": "flash service - open in firefox/chrome/browser localhost:8080",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index1.js"
+  },
+  "keywords": [
+    "flash",
+    "games",
+    "viewer"
+  ],
+  "author": "Roman Fedorov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "images": "^3.0.1",
+    "multer": "^1.3.0"
+  }
+}
